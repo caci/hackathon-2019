@@ -22,29 +22,29 @@ Propor correções no plano estratégico de TI, com a intenção de adequá-lo �
 ## 2 - Execução da Migração de acordo com o Plano Estratégico
 Com essas fases definidas para toda e qualquer tarefa na gestão de TI, podemos seguir para a execução da migração, quer deverá ter os passos:
 
-+ 1. AVALIAÇÃO
-|__ Criar um plano de migração
+**1. AVALIAÇÃO**
+* Criar um plano de migração
 
 É preciso definir prioridades e objetivos da migração para o cloud antes de começar o planejamento. Isso garante uma migração mais tranquila. Ferramentas automatizadas de migração fornecem informações sobre o ambiente e as dependências para desenvolver os planos de migração, porém nem tudo funciona de maneira automática, o melhor e testar diferentes cenários.
 
 Ao avaliar o ambiente agora e criar um modelo para utilização futura, ajuda a planejar um plano de longo prazo. Também é importante migrar as aplicações menores e/ou com poucas dependências para ter um ritmo de migração rápido e eficiente.
 
-|__ Envolver as pessoas e departamentos para mensurar impactos e procedimentos
+* Envolver as pessoas e departamentos para mensurar impactos e procedimentos
 
 Uma migração sempre cria um processo de transformação digital em uma organização. É importante comunicar todos gestores e pessoas-chave juntamente com a equipe de TI e os proprietários. Conseguir o envolvimento de todos resulta em um processo de migração mais rápido e harmonioso.
 
-|__ Calcular o custo total de posse **TCO** 
+* Calcular o custo total de posse **TCO** 
 
 Utilizar ferramentas como https://azure.microsoft.com/pt-pt/pricing/tco/calculator/ ou https://awstcocalculator.com/ para criar um cenário de migração com dados de custos.
 
-|__ Avaliar aplicações e prioridades
+* Avaliar aplicações e prioridades
 
 Para iniciar qualquer migração, é preciso compilar um inventário dos servidores físicos e virtuais. Embora existam ferramentas de gestão de que dispõe atualmente possam fornecer uma boa representação das centenas, talvez milhares, de aplicações que a organização irá executar, é preciso de um mecanismo de inventário que possa fornecer todos os dados para os próximos passos.
 
 Com estas informações, é preciso mapear os servidores para representar as aplicações locais. Isto ajuda a identificar as dependências e/ou a comunicação entre servidores, para que se possa incluir todos os componentes de aplicação necessários no plano de migração para a cloud, o que ajuda a reduzir os riscos e a garantir uma migração suave. Em seguida é preciso agrupar os servidores de forma lógica para representar as aplicações e selecionar a melhor estratégia de migração para a cloud para cada aplicação com base nos respectivos requisitos e objetivos de migração.
 
-+ 2. MIGRAÇÃO
-|__ Escolher uma estratégia de migração
+**2. MIGRAÇÃO**
+* Escolher uma estratégia de migração
 Atualmente é possível utilizar 4 estratégias de migração: realojar ou migração "lift-and-shift", refatorizar, rearquitetar ou reconstruir.
 **Realojar:** Cada aplicação é migrada como está, o que fornece os benefícios da cloud sem os riscos ou despesas de fazer alterações ao código.
 
@@ -54,37 +54,37 @@ Atualmente é possível utilizar 4 estratégias de migração: realojar ou migra
 
 **Reconstruir:** Recriar uma aplicação do zero com tecnologias nativas para cloud.
 
-|__ Aplicar a estratégia de migração
+* Aplicar a estratégia de migração
 
 Definir o que será feito com cada aplicação de acordo com as estratégias de migração definidas no passo anterior.
 
-|__ Utilizar ferramentas de suporte
+* Utilizar ferramentas de suporte
 
 Escolher quais as melhores ferramentas para suportar uma migração suave e que seja compatível com a experiência da equipe de TI.
 
-+ 3. OTIMIZAÇÃO
-|__ Analisar e rever custos
+**3. OTIMIZAÇÃO**
+* Analisar e rever custos
 
 Utilize uma solução de gestão de cloud para alocar, reduzir e monitorizar os custos totais da cloud para poder poupar e aplicar em outros investimentos.
 
-|__ Calcular benefícios híbridos e redimensionar servidores
+* Calcular benefícios híbridos e redimensionar servidores
 
 Continuar a redimensionar as máquinas virtuais migradas para as suas cargas de trabalho para obter os melhores valores possíveis.
 
-|__ Reinvestir recursos para economizar ou melhorar a performance
+* Reinvestir recursos para economizar ou melhorar a performance
 
 Utilizar os recursos poupados para adicionar mais capacidades de cloud. Modernizar as cargas de trabalho existentes, migrar cargas de trabalho adicionais, e melhorar a gestão de cloud.
 
-+ 4. PROTEÇÃO E GESTÃO
-|__ Manter segurança das aplicações
+**4. PROTEÇÃO E GESTÃO**
+* Manter segurança das aplicações
 
 Manter contato com o setor de segurança do fornecedor de servidores cloud para garantir uma gestão de segurança unificada e proteção contra ameaças avançadas nas cargas de trabalho. 
 
-|__ Monitorar escalas, brechas e comportamento das aplicações e servidores
+* Monitorar escalas, brechas e comportamento das aplicações e servidores
 
 Evitar interrupções prejudiciais ao negócio, atingindo objetivos de conformidade e proteger os dados da empresa de aplicações na cloud contra ransomware e erro humano através da criação de cópias de segurança das suas aplicações. Uma política de backup é muito importante.
 
-|__ Proteger os dados e atualizar protocolos de segurança
+* Proteger os dados e atualizar protocolos de segurança
 
 Controlar o estado de funcionamento e desempenho das aplicações, infraestruturas e dados na cloud com ferramentas de monitoramento.
 
@@ -102,7 +102,7 @@ Benefício importante da Governança de TI, assegurando que o setor de tecnologi
 A Governança de TI permite que a empresa visualize abrangentemente eventuais riscos para o negócio e dá meios de minimizá-los.
 
 **Gerenciamento de Recursos:**
-Nste caso, o papel da Governança de TI é garantir que a gestão dos recursos humanos e tecnológicos da empresa seja o mais otimizada possível.
+Neste caso, o papel da Governança de TI é garantir que a gestão dos recursos humanos e tecnológicos da empresa seja o mais otimizada possível.
 
 **Mensuração de Desempenho:** 
 Utilizando-se de indicadores que vão muito além dos critérios financeiros, a Governança de TI assegura uma medição e avaliação precisa dos resultados do negócio.
