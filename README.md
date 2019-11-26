@@ -4,23 +4,23 @@ Desafio - Propor um processo de Governança de TI
 ## 1 - Definição do Plano Estratégico de TI
 O primeiro passo para ter um processo de Governança de TI sólido e conseguir realizar a migração dos servidores on-premisses para a nuvem é definir um plano estratégico de TI, que deverá seguir as seguintes fases:
 
-**1 Análise de ambiente:**
+**1. Análise de ambiente:**
 Buscar entender como é o ambiente interno e externo da TI da empresa e refletir sobre a situação atual da área.
 
-**2 Formulação das estratégias de TI:**
+**2. Formulação das estratégias de TI:**
 Definir quais temas e objetivos estratégicos a TI deve perseguir para aderir ao planejamento estratégico da organização.
 
-**3 Plano de execução:**
+**3. Plano de execução:**
 Detalhar a estratégia definida, especificando quais iniciativas vão ser realizadas e com quais indicadores serão medidas.
 
-**4 Monitoramento da execução:**
+**4. Monitoramento da execução:**
 Acompanhar se as metas estão sendo atingidas no tempo esperado e se elas estão gerando os benefícios esperados.
 
-**5 Ajustes do plano:**
+**5. Ajustes do plano:**
 Propor correções no plano estratégico de TI, com a intenção de adequá-lo às mudanças de rota.
 
 ## 2 - Execução da Migração de acordo com o Plano Estratégico
-Com essas fases definidas para toda e qualquer tarefa na gestão de TI, podemos seguir para a execução da migração, quer deverá ter os passos:
+Com essas fases definidas para toda e qualquer tarefa na gestão de TI, podemos seguir para a execução da migração, que deverá ter os passos:
 
 **1. AVALIAÇÃO**
 * Criar um plano de migração
