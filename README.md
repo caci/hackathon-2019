@@ -46,6 +46,7 @@ Com estas informações, é preciso mapear os servidores para representar as apl
 **2. MIGRAÇÃO**
 * Escolher uma estratégia de migração
 Atualmente é possível utilizar 4 estratégias de migração: realojar ou migração "lift-and-shift", refatorizar, rearquitetar ou reconstruir.
+
 **Realojar:** Cada aplicação é migrada como está, o que fornece os benefícios da cloud sem os riscos ou despesas de fazer alterações ao código.
 
 **Refatorizar:** Muitas vezes conhecida como recriar pacotes, esta estratégia de migração para a cloud envolve algumas alterações ao design da aplicação, mas sem alterações globais ao código da aplicação. 
